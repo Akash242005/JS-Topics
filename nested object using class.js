@@ -14,4 +14,4 @@ class person{
 }
 
 const akash = new person("AKASH",20,"278/M2","Chavadi street","Namakkal");
-console.log(akash.add.city)
+console.log(akash.add.city);
